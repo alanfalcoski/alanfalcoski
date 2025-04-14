@@ -1,4 +1,4 @@
-👋 Olá! Me chamo **Alan** e moro em São José dos Pinhais/PR. Sou **desenvolvedor back-end .net** nascido em 01/07/1994.  
+👋 Olá! Me chamo **Alan** e moro em São José dos Pinhais/PR. Sou **Arquiteto de Software** com experiências em várias stacks.
 👀  Me interesso em assuntos ligados a arquitetura de software moderna e desenvolvimento de software ágil. 
 
 --- 
